@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/9e/34/dd/9e34dda565b3c8df32a1e892aad6d390.gif');
+    background-repeat: no-repeat, repeat; 
+    background-position: center;
+    background-size: 100%;
+    height: 100vh;
+    color:orange;
+    
+}
+form {
+    width: 300px;
+}
+input {
+    border: none;
+}
+button {
+    margin-bottom: 10px;
+    
+    
+}

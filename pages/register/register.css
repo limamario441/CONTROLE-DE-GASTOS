@@ -1,0 +1,20 @@
+body {
+    background-image: url('https://i.pinimg.com/564x/b2/b1/ee/b2b1eee839ea19a6de78baa799370985.jpg');
+    background-repeat: no-repeat, repeat; 
+    background-position: center;
+    background-size: 100%;
+    height: 100vh;
+    color:orange;
+}
+form {
+    width: 300px;
+}
+input {
+    border: none;
+    border-radius: 2px;
+}
+button {
+    margin-bottom: 10px;
+    
+   
+}

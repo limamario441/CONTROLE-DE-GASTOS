@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/20/3f/3a/203f3a148cb3bc8596c8de5d9ac5100b.gif');
+    background-repeat: no-repeat, repeat; 
+    background-position: center;
+    background-size: 100%;
+    height: 100vh;
+    color:orange;
+}
+
+header {
+    text-align: right;
+}
+header button {
+    width: auto;
+}
+
+ol {
+    list-style-type: none;
+    padding: 0;
+}
+ol li {
+    cursor: pointer;
+    background: white;
+    padding: 8px 16px;
+    border-bottom: 1px solid gray;
+}
+ol li:hover {
+    opacity: 0.8;
+}
+ol li.expense {
+    border-left: 10px solid red;
+}
+ol li.income {
+    border-left: 10px solid green;
+} 
+
+p {
+    margin: 4px 0;
+}
